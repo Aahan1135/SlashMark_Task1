@@ -1,9 +1,9 @@
-SlashMark_Task1
+#SlashMark_Task1
 This repository provides a simple JAVA script to read lines from a text file, encrypt each line using cryptographic algorithms encryption, and write the encrypted lines to a new file.
 
 This code defines two functions, encrypt and decrypt, using the Node.js crypto module to perform AES-256-CBC encryption and decryption. Here is a breakdown of what the code does:
 
-Strict Mode:
+#Strict Mode:
 The code starts with 'use strict'; to enforce strict mode, which helps catch common coding mistakes and unsafe actions. Require Crypto Module: The crypto module is required to perform cryptographic operations.
 
 Encryption Key and IV Length:
